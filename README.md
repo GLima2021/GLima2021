@@ -11,10 +11,10 @@
 ## Projetos Destacados
 
 ### Project 1: BibleHelp
-[BibleHelp](https://github.com/GLima2021/CSE210-CSharp/blob/main/BibleHelp/Program.cs) é um projeto em C# que faz parte do curso CSE210. O projeto inclui [descrição breve do que o projeto faz].
+[BibleHelp](https://github.com/GLima2021/CSE210-CSharp/blob/main/BibleHelp/Program.cs) é um projeto em C# que faz parte do curso CSE210.
 
 ### Project 2: Journal
-[Journal](https://github.com/GLima2021/CSE210-CSharp/blob/main/Journal/Program.cs) é um projeto de C# que também faz parte do curso CSE210. Este projeto [descrição breve do que o projeto faz].
+[Journal](https://github.com/GLima2021/CSE210-CSharp/blob/main/Journal/Program.cs) é um projeto de C# que também faz parte do curso CSE210.
 
 ## Habilidades
 ![HTML](https://via.placeholder.com/20/0000FF/808080?text=HTML) ![CSS](https://via.placeholder.com/20/0000FF/808080?text=CSS) ![JavaScript](https://via.placeholder.com/20/0000FF/808080?text=JS)
