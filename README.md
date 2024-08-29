@@ -1,16 +1,16 @@
-## Hi there 👋
+# Gabriel Lima
+![Profile Banner](https://via.placeholder.com/1000x200?text=Seu+Banner+Aqui)
 
-<!--
-**GLima2021/GLima2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Olá! Sou Gabriel Lima. Aqui você vai encontrar meus projetos de inglês e desenvolvimento de software.**
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalhando em: [Nome do Projeto](#)
+- 🌱 Aprendendo: [Tecnologia Exemplo]
+- 📫 Como me contatar: [Seu email ou LinkedIn]
+- ⚡ Curiosidade: Apaixonado por unir educação e tecnologia!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos Destacados
+- [Projeto 1](#) - Descrição breve.
+- [Projeto 2](#) - Descrição breve.
+
+## Habilidades
+![HTML](https://via.placeholder.com/20/0000FF/808080?text=HTML) ![CSS](https://via.placeholder.com/20/0000FF/808080?text=CSS) ![JavaScript](https://via.placeholder.com/20/0000FF/808080?text=JS)
